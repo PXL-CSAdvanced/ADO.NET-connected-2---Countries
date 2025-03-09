@@ -290,6 +290,9 @@ GO
 
 </details>
 
+<img src="images/map.jpeg"/>
+
+
 ## 1. Totalen
 1. Maak de methode `GetTotalNumberOfCountries()` die alle landen uit de database telt en retourneert.
 2. Maak de methode `GetTotalPopulation()` die de totale populatie van alle landen optelt. **Let op:** de totale hoeveelheid van mensen past niet in een `int`. Je zal een alternatieve oplossing nodig hebben.
